@@ -6,6 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 1- create a new firebase project
+
 2- create 'firebase.js' file
 
 First, run the development server:
