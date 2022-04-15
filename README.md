@@ -1,3 +1,7 @@
+![alt text](https://github.com/2202amgs/facebook-clone/blob/main/images/Web%20capture_15-4-2022_22734_localhost.jpeg?raw=true)
+
+![alt text](/images/Web%20capture_15-4-2022_22734_localhost.jpeg)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
